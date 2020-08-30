@@ -1,2 +1,2 @@
 # CPTS-233
-Java
+I'm new to learing the Java language and how to effectively navigate Github. 
